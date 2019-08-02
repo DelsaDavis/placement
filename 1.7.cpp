@@ -4,7 +4,7 @@ int main()
 {
 int n,i;
 cin>>n;
-for (i=0;i<=n;i++)
- cout<<"Hello";
+for (i=0;i<n;i++)
+ cout<<"Hello\n";
 return 0;
 }
