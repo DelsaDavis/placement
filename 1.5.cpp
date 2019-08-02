@@ -5,7 +5,7 @@ int main
   cin>>a>>b>>c;
   if(a>b && a>c)
     cout<<a;
-  elseif(b>c)
+  else if(b>c)
     cout<<b;
   else
     cout<<c;
